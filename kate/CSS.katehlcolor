@@ -1,0 +1,36 @@
+[Highlighting CSS - Schema Monokai]
+Alerts:Alert Level 1=10,ffe85848,ffe85848,0,0,0,0,ff451e1a,,,---
+Alerts:Alert Level 2=10,ffca9219,ffca9219,0,0,0,0,ff451e1a,,,---
+Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,0,0,0,0,,,,---
+Alerts:Normal Text=0,ffffffff,ffffffff,0,0,0,0,,,,---
+Alerts:Region Marker=25,ff0057ae,ff0057ae,0,0,0,0,ffdce7f7,,,---
+CSS:Annotation=9,ffd7246e,fffdbc4b,0,0,0,0,,,,---
+CSS:At Rule=3,ffd7246e,ffd7246e,1,0,0,0,,,,---
+CSS:Color=20,ffffffff,fffcfcfc,0,0,0,0,,,,---
+CSS:Comment=8,ff4c4c4c,ff27ae60,0,0,0,0,,,,---
+CSS:Error=13,ffda4453,ffda4453,0,0,0,0,,,,---
+CSS:Function=2,ff8f7cf3,ff8f7cf3,0,0,0,0,,,,---
+CSS:Keyword=1,ffd7246e,ffd7246e,1,0,0,0,,,,---
+CSS:Normal Text=0,ffffffff,ffffffff,0,0,0,0,,,,---
+CSS:Number=17,ff8f7cf3,ff8f7cf3,0,0,0,0,,,,---
+CSS:Operator=5,fffdbc4b,fffcfcfc,0,0,0,0,,,,---
+CSS:Property=1,ff65d2e1,ff65d2e1,0,0,0,0,,,,---
+CSS:Region Marker=12,fffff675,fffff675,0,0,0,0,,,,---
+CSS:Selector Attribute=7,ff65d2e1,fffcfcfc,0,0,0,0,,,,---
+CSS:Selector Class=5,ffa6e22e,fffcfcfc,0,0,0,0,,,,---
+CSS:Selector Id=5,ffa6e22e,fffcfcfc,0,0,0,0,,,,---
+CSS:Selector Pseudo=3,fffdbc4b,fffdbc4b,0,0,0,0,,,,---
+CSS:Selector Tag=0,ffd7246e,ffffffff,0,0,0,0,,,,---
+CSS:Separator Symbol=5,fffdbc4b,fffcfcfc,0,0,0,0,,,,---
+CSS:SpecialChar=11,ff65d2e1,fffcfcfc,0,0,0,0,,,,---
+CSS:String=7,ff65d2e1,ff65d2e1,0,0,0,0,,,,---
+CSS:Unit=16,ffd7246e,ffd7246e,0,0,0,0,,,,---
+CSS:Unknown Property=1,ffd7246e,ffd7246e,0,1,0,0,,,,---
+CSS:Value=2,ff8f7cf3,ff8f7cf3,0,0,0,0,,,,---
+CSS:Value Keyword=6,ff7f8c8d,ffbdc3c7,0,0,0,0,,,,---
+CSS:Variable=3,ff65d2e1,fffdbc4b,0,0,0,0,,,,---
+
+[KateHLColors]
+full schema=false
+highlight=CSS
+schema=Monokai
